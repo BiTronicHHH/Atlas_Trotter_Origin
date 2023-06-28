@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /profile
+
+# Host
+Host: https://atlastrotter.com/
+
+# Sitemaps
+Sitemap: https://atlastrotter.com/server-sitemap.xml

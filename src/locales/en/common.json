@@ -1,0 +1,82 @@
+{
+  "not_found": "This page could not be found",
+  "Save": "Save",
+  "Cancel": "Cancel",
+  "Confirm": "Confirm",
+  "Reset": "Reset",
+  "Filter": "Filter",
+  "Show": "Show",
+  "Hide": "Hide",
+  "destinations_modal": {
+    "title": "Visited destinations",
+    "search": "Search destinations"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "French"
+  },
+  "footer": {
+    "language": "Language",
+    "Home": "Home",
+    "Terms & Conditions": "Terms & Conditions",
+    "Privacy policy": "Privacy policy"
+  },
+  "header": {
+    "Where to travel": "Where to travel",
+    "Profile": "Profile",
+    "My map": "My map",
+    "Sign in": "Sign in",
+    "Sign out": "Sign out"
+  },
+  "continents": {
+    "Africa": "Africa",
+    "Antarctica": "Antarctica",
+    "Asia": "Asia",
+    "Central America": "Central America",
+    "Europe": "Europe",
+    "North America": "North America",
+    "Oceania": "Oceania",
+    "South America": "South America"
+  },
+  "share": {
+    "text": "I have visited {{result}}% of the world, try it too!",
+    "title": "Share your result with your friends!",
+    "share_insta_1": " Click here to generate your personalized Instagram story",
+    "share_insta_2": ", don't forget to tag us ",
+    "Preview": "Preview:",
+    "save_img": "You can now save and share this image!",
+    "discovered": "discovered"
+  },
+  "results": {
+    "result_profile": "{{percentage}}% of the world visited with {{n}} destination{{s}} out of {{total}}",
+    "result_home": "You have visited {{percentage}}% of the world with {{n}} destination{{s}} out of {{total}}",
+    "share": "Share it!",
+    "create_text": "Create an account for free and save your map!",
+    "Create an account": "Create an account",
+    "Find your next destination": "Find your next destination"
+  },
+  "months": {
+    "January": "January",
+    "February": "February",
+    "March": "March",
+    "April": "April",
+    "May": "May",
+    "June": "June",
+    "July": "July",
+    "August": "August",
+    "September": "September",
+    "October": "October",
+    "November": "November",
+    "December": "December"
+  },
+  "categories": {
+    "Cultural": "Cultural",
+    "Nature": "Nature",
+    "Sports": "Sports",
+    "Beach": "Beach",
+    "Gastronomic": "Gastronomic",
+    "Romantic": "Romantic",
+    "Urban": "Urban",
+    "Diving": "Diving"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "not_found": "Page introuvable",
+  "Save": "Sauvegarder",
+  "Cancel": "Annuler",
+  "Confirm": "Confirmer",
+  "Reset": "Réinitialiser",
+  "Filter": "Filtrer",
+  "Show": "Afficher",
+  "Hide": "Cacher",
+  "destinations_modal": {
+    "title": "Destinations visitées",
+    "search": "Rechercher des destinations"
+  },
+  "languages": {
+    "en": "Anglais",
+    "fr": "Français"
+  },
+  "footer": {
+    "language": "Language",
+    "Home": "Accueil",
+    "Terms & Conditions": "Termes & Conditions",
+    "Privacy policy": "Politique de confidentialité"
+  },
+  "header": {
+    "Where to travel": "Où voyager",
+    "Profile": "Profil",
+    "My map": "Ma carte",
+    "Sign in": "Se connecter",
+    "Sign out": "Déconnexion"
+  },
+  "continents": {
+    "Africa": "Afrique",
+    "Antarctica": "Antarctique",
+    "Asia": "Asie",
+    "Central America": "Amérique centrale",
+    "Europe": "Europe",
+    "North America": "Amérique du Nord",
+    "Oceania": "Océanie",
+    "South America": "Amérique du Sud"
+  },
+  "share": {
+    "text": "J'ai visité {{result}}% du monde, essaye aussi !",
+    "title": "Partage ton résultat avec tes amis !",
+    "share_insta_1": " Clique ici pour générer ta story Instagram personnalisée",
+    "share_insta_2": ", n'oublie pas de nous taguer ",
+    "Preview": "Prévisualisation :",
+    "save_img": "Tu peux maintenant sauvegarder et partager cette image!",
+    "discovered": "découvert"
+  },
+  "results": {
+    "result_profile": "{{percentage}}% du monde visité avec {{n}} destination{{s}} sur {{total}}",
+    "result_home": "Tu as visité {{percentage}}% du monde avec {{n}} destination{{s}} sur {{total}}",
+    "share": "Partager",
+    "create_text": "Crée un compte gratuitement et sauvegarde ta carte !",
+    "Create an account": "Créer un compte",
+    "Find your next destination": "Trouve ta prochaine destination"
+  },
+  "months": {
+    "January": "Janvier",
+    "February": "Février",
+    "March": "Mars",
+    "April": "Avril",
+    "May": "Mai",
+    "June": "Juin",
+    "July": "Juillet",
+    "August": "Août",
+    "September": "Septembre",
+    "October": "Octobre",
+    "November": "Novembre",
+    "December": "Décembre"
+  },
+  "categories": {
+    "Cultural": "Culturel",
+    "Nature": "Nature",
+    "Sports": "Sports",
+    "Beach": "Plage",
+    "Gastronomic": "Gastronomique",
+    "Romantic": "Romantique",
+    "Urban": "Urbain",
+    "Diving": "Plongée"
+  }
+}

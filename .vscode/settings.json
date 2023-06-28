@@ -1,0 +1,56 @@
+{
+    "editor.formatOnSave": true,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": false,
+    "folderTemplates.structures": [
+      {
+        "name": "TS React Functional Component",
+        "customVariables": ["", "/"],
+        "structure": [
+          {
+            "fileName": "<FTName>.tsx",
+            "template": "TSXFile"
+          },
+          {
+            "fileName": "index.ts",
+            "template": "IndexFile"
+          },
+          {
+            "fileName": "<FTName>.module.scss",
+            "template": "StyleFile"
+          }
+        ]
+      }
+    ],
+    "folderTemplates.fileTemplates": {
+      "TSXFile": [
+        "import React from 'react';",
+        "import styles from './<FTName>.module.scss'",
+        "",
+        "export const <FTName> = () => {",
+        "",
+        "  return (",
+        "    <div className={styles.container}>",
+        "      <p><FTName></p>",
+        "    </div>",
+        "  );",
+        "};",
+        ""
+      ],
+      "IndexFile": ["export { <FTName> } from './<FTName>';", ""],
+      "StyleFile": [
+        ".container {",
+        "  padding: 5px",
+        "}",
+      ]
+    }
+}
